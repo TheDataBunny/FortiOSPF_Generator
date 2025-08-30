@@ -1,5 +1,8 @@
 # Fortinet OSPF Configuration Generator
 
+<img src="ospfgen.png" alt="OSPF Generator" width="350">
+
+
 A Python tool for generating optimized OSPF configurations for Fortigate firewalls with intelligent route summarization to reduce OSPF table size and improve network efficiency.
 
 ## Features
