@@ -1,0 +1,17 @@
+OSPF Router ID: 10.0.0.1
+Areas: 0.0.0.0
+
+Interfaces
+
+Name: TestInterface
+Interface: port3
+Cost: 5
+Apply to IP: Any IP 
+Authentication: None
+Passive: Disabled
+
+Enter your Subnets Below including CIDR
+
+10.1.1.0/24
+10.1.2.0/24
+10.1.3.0/24

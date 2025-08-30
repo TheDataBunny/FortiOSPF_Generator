@@ -1,0 +1,22 @@
+OSPF Router ID: 172.16.1.1
+Areas: 0.0.0.0
+
+Interfaces
+
+Name: Internal
+Interface: TRUNK
+Cost: 1
+Apply to IP: Any IP 
+Authentication: None
+Passive: Disabled
+
+Enter your Subnets Below including CIDR
+
+172.16.30.0/24
+172.16.40.0/24
+172.16.32.0/28
+172.16.253.0/30
+192.168.5.0/24
+10.5.5.0/30
+10.5.10.0/24
+192.168.60.0/27
